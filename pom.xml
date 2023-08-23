@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>ms-domain-exercise</artifactId>
+    <artifactId>attendance-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ms-domain-exercise</name>
+    <name>attendance-system</name>
     <description>Demo project for Spring Boot</description>
 
     <modules>
